@@ -1,0 +1,3 @@
+g++ -c "D:\private\C++\test-vscode-c++\index.cpp"
+g++ -o index.exe index.cpp
+.\index.exe
